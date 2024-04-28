@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(25deg, #f1f1f1, #586596 50%);
+    display: flex;
+    align-items: center;
+    min-height: 1000vh;
+    padding-top: 50px;
+}
+
+.container {
+    box-shadow: 2px 2px 14px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#output {
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+button.btn {
+    background-color: #3bdc35;
+    border-color: #000000;
+}
