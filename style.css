@@ -2,7 +2,7 @@ body{
     background: linear-gradient(25deg, #f1f1f1, #586596 50%);
     display: flex;
     align-items: center;
-    min-height: 1000vh;
+    min-height: 100vh;
     padding-top: 50px;
 }
 
@@ -19,6 +19,10 @@ body{
     border-radius: 5px;
 }
 button.btn {
-    background-color: #3bdc35;
-    border-color: #000000;
+    background-color: #ff0000;
+    border-color: #5a5a5a;
+}
+button.btn:hover {
+    background-color: #00ff00;
+   
 }
