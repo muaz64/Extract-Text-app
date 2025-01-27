@@ -15,7 +15,7 @@ A web-based **Text Extraction Application** that extracts text content from an u
 
 ## 📸 Screenshot  
 
-![Text Extraction App Screenshot](./Screenshot_19-12-2024_20540_127.0.0.1.jpeg)
+![Text Extraction App Screenshot](./Extract%20Text%20app.jpeg)
 
 ---
 
